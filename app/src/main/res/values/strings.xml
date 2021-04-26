@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">BLANJAUMKM</string>
+
+    <string name="kembali">Kembali</string>
+    <string name="halaman_log">Halaman Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="lupa_passwo">lupa password</string>
+    <string name="login">Login</string>
+    <string name="tidak_punya">tidak punya akun?</string>
+
+    <string name="daftar_">daftar</string>
+    <string name="halaman_daf">Halaman Daftar
+</string>
+    <string name="silahkan_le">
+
+Silahkan lengkapi data diri dibawah ini:
+</string>
+    <string name="masuk_">"masuk"</string>
+    <string name="lupa_passwo_">Lupa Password
+        <string name="login_gagal">Login Gagal!</string>
+    </string>
+    <string name="reset_passw">
+
+Reset Password
+</string>
+
 </resources>
